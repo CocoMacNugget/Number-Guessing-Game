@@ -27,3 +27,5 @@ higher/lower than the generated number.
 I joined an internship program and worked on a couple of projects like this project. Unfortunately, I couldn’t finish 
 it due to unexpected circumstances, but I really enjoyed the experience. I hope to work on 
 similar projects in the future!
+
+**Disclaimer:** I had some form of help making this project.
